@@ -1,0 +1,7 @@
+type meetup {
+  id: ID!
+  title: String!
+  content: String!
+  date: String!
+  venue: String!
+}
